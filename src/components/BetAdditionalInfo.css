@@ -1,0 +1,32 @@
+.additional-info__item {
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.additional-info__time {
+  width: 37px;
+  margin-right: 19px;
+}
+
+.additional-info__status {
+  width: 96px;
+  color: #b8ccd9;
+}
+
+.additional-info__money {
+  width: 40px;
+  text-align: right;
+  color: #b8ccd9;
+}
+
+.additional-info__coeff {
+  width: 38px;
+  text-align: right;
+  padding-right: 3px;
+  color: #b8ccd9;
+}
+
+.additional-info__icon {
+  width: 16px;
+  height: 16px;
+}

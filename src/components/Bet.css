@@ -1,0 +1,95 @@
+.bet {
+  width: 248px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #2a414c;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+.bet__main-info {
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.bet__info {
+  width: 48px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 5px;
+}
+
+.bet__id {
+  text-transform: uppercase;
+}
+
+.bet__description {
+  display: flex;
+  flex-direction: column;
+  width: 169px;
+}
+
+.bet__event {
+  width: max-content;
+  padding-left: 3px;
+}
+
+.bet__offside {
+  color: #d6b2ff;
+  font-weight: bold;
+}
+
+.bet__free-kick {
+  font-weight: bold;
+  color: #a6ddff;
+}
+
+.bet__goal-kick {
+  font-weight: bold;
+  color: #85f2ef;
+}
+
+.bet__corner-kick {
+  font-weight: bold;
+  color: #feb2d5;
+}
+
+.bet__goal {
+  font-weight: bold;
+  color: #ffc6a6;
+}
+
+.bet__money-info {
+  width: 167px;
+  display: flex;
+}
+
+.bet__size {
+  width: max-content;
+  margin-right: 8px;
+}
+
+.bet__paid {
+  width: max-content;
+}
+
+.bet__status {
+  display: flex;
+  flex-direction: column;
+  width: 24px;
+  align-items: flex-end;
+}
+
+.bet__icon {
+  width: 16px;
+  height: 16px;
+}
+
+.bet__coeff {
+  padding-right: 1px;
+}
+
+.winning {
+  color: #94e107;
+}
