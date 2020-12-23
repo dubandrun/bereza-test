@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bereza-test/static/css/main.e6abaaa7.chunk.css",
-    "main.js": "/bereza-test/static/js/main.d04fac05.chunk.js",
-    "main.js.map": "/bereza-test/static/js/main.d04fac05.chunk.js.map",
+    "main.css": "/bereza-test/static/css/main.3413bb5a.chunk.css",
+    "main.js": "/bereza-test/static/js/main.1ed0a827.chunk.js",
+    "main.js.map": "/bereza-test/static/js/main.1ed0a827.chunk.js.map",
     "runtime-main.js": "/bereza-test/static/js/runtime-main.4f62cc52.js",
     "runtime-main.js.map": "/bereza-test/static/js/runtime-main.4f62cc52.js.map",
     "static/js/2.33c64632.chunk.js": "/bereza-test/static/js/2.33c64632.chunk.js",
     "static/js/2.33c64632.chunk.js.map": "/bereza-test/static/js/2.33c64632.chunk.js.map",
     "index.html": "/bereza-test/index.html",
-    "static/css/main.e6abaaa7.chunk.css.map": "/bereza-test/static/css/main.e6abaaa7.chunk.css.map",
+    "static/css/main.3413bb5a.chunk.css.map": "/bereza-test/static/css/main.3413bb5a.chunk.css.map",
     "static/js/2.33c64632.chunk.js.LICENSE.txt": "/bereza-test/static/js/2.33c64632.chunk.js.LICENSE.txt",
     "static/media/conf.cf4ed027.svg": "/bereza-test/static/media/conf.cf4ed027.svg",
     "static/media/confirmed.6e78231e.svg": "/bereza-test/static/media/confirmed.6e78231e.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.4f62cc52.js",
     "static/js/2.33c64632.chunk.js",
-    "static/css/main.e6abaaa7.chunk.css",
-    "static/js/main.d04fac05.chunk.js"
+    "static/css/main.3413bb5a.chunk.css",
+    "static/js/main.1ed0a827.chunk.js"
   ]
 }
